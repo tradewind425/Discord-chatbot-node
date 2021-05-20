@@ -1,0 +1,14 @@
+{
+  "name": "discord_chatbot_js",
+  "version": "1.0.0",
+  "description": "[公式ドキュメント](https://guide.discordjs-japan.org/)",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
